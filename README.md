@@ -26,7 +26,7 @@ Join each table based on Inner Joins:
 
 
 # Visualizations/Dashboard
-After joining is complete, I created numerous visualizations that would eventually be put together onto the final interactive dashboard.
+After joining is complete, I created numerous visualizations where each one would end up together on the final analysis dashboard.
 
 LINK: https://public.tableau.com/app/profile/christian.casilao/viz/ChicagoAirbnbProject_17715599899670/Dashboard
 
