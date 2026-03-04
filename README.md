@@ -1,4 +1,4 @@
-# ChicagoAirbnbProject
+# Overview
 Firstly, retrieve public data excel tables (publicly found on 'Inside Airbnb'). Next was to join the tables within Tableau based on matching column values between each table to create multiple charts/visualizations for a full dashboard analyzing Chicago Airbnb data released on March 11th, 2025.
 
 # Data Source 
